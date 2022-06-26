@@ -1,4 +1,4 @@
-<<*>> 7. APPLICATION LEVEL <<*>>
+7. APPLICATION LEVEL
 
 
 
